@@ -1,0 +1,75 @@
+body {
+	background-color: #fff;
+}
+
+.add-user-button,
+.add-book-button,
+.edit-book-button,
+.edit-user-button {
+	float: right;
+}
+
+.select-user {
+	width: auto;
+}
+
+.button-rent {
+	margin-top: 1em;
+}
+
+.select-user-book-rent-title {
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#books-table, 
+#users-table {
+	cursor: pointer;
+}
+
+.book-available-title {
+	color: green;
+	font-weight: bold;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.book-unavailable-title {
+	color: red;
+	font-weight: bold;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+h6.book-isbn {
+	padding-top: 2em;
+}
+
+.col.owe-row-content.red {
+	color: red;
+	font-weight: bold;
+}
+
+.user-details {
+	margin-bottom: 1.5em;
+}
+
+.user-details-all {
+	padding-left: 2em;
+}
+
+.user-image,
+.book-cover-image {
+	padding-bottom: 1em;
+}
+
+.user-image-input-file {
+	width: 215px;
+	padding-bottom: 2em;
+}
+
+.user_image_select-submit-button,
+.user-image-save-button {
+	padding-top: 1em;
+}
+
