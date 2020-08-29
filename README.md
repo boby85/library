@@ -23,10 +23,11 @@ When new user is created a randomly generated password is send to his/her email 
 
 ## Demo
 
-Login as 
-	- admin@msobl.com as admin
-	- worker1@msobl.com as moderator
-	- john.doe@gmail.com as user
+https://msobl.com
+
+Login as admin@msobl.com as admin,
+worker1@msobl.com as moderator,
+john.doe@gmail.com as user.
 
 Please do not delete anything. :)
 
