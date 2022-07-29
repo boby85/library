@@ -20,15 +20,3 @@ https://developers.google.com/books/docs/v1/getting_started
 Same API is used as well to fetch books cover images.
 
 When new user is created a randomly generated password is send to his/her email address.
-
-## Demo
-
-https://msobl.com
-
-Login as admin@msobl.com as admin,
-worker1@msobl.com as moderator,
-john.doe@gmail.com as user.
-
-Please do not delete anything. :)
-
-This demo will be available until 31.12.2020. 
