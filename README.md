@@ -19,4 +19,4 @@ When adding the book to the library, if book ISBN is provided, it will try to fi
 https://developers.google.com/books/docs/v1/getting_started
 Same API is used as well to fetch books cover images.
 
-When new user is created a randomly generated password is send to his/her email address.
+When new user is created a randomly generated password is send to their email address.
